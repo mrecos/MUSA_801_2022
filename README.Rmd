@@ -2,12 +2,7 @@
 title: "MUSA 801: Good Code Habits"
 author: "Matthew Harris"
 date: "2/7/2022"
-output:
-  html_document:
-    toc: true
-    theme: united
-    code_folding: hide
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
